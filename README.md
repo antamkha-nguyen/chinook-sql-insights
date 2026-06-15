@@ -6,8 +6,6 @@ This project contains SQL queries written against the **Chinook** database, a sa
 
 All queries are written in **SQLite** and executed using **DBeaver**.
 
----
-
 ## About the Chinook Database
 
 The Chinook database was created by **Luis Rocha** as a modern, open-source alternative to Microsoft's Northwind sample database. It models a fictional digital music store, similar to an early version of iTunes where customers from over 20 countries purchase tracks and albums across a wide range of genres.
