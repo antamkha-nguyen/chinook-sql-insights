@@ -14,8 +14,6 @@ The Chinook database was created by **Luis Rocha** as a modern, open-source alte
 
 > The database schema diagram is included in the `/schema` folder.
 
----
-
 ## Business Questions & Queries
 
 ### Store Performance & Sales Insights
@@ -37,8 +35,6 @@ The Chinook database was created by **Luis Rocha** as a modern, open-source alte
 - What is the lifetime value of each customer?
 - How many tracks does each album have, and who is the artist?
 
----
-
 ## Reproducing the Results
 
 The Chinook database is an open-source project originally created by **Luis Rocha** and is freely available on GitHub. It comes pre-loaded with sample data so no setup or data import required.
@@ -48,8 +44,6 @@ To reproduce the results from this project:
 1. Download the Chinook SQLite database from [https://github.com/lerocha/chinook-database](https://github.com/lerocha/chinook-database)
 2. Open DBeaver and create a new SQLite connection pointing to the `.db` file
 3. Open either `.sql` file and run the queries
-
----
 
 ## Project Structure
 
