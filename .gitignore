@@ -1,0 +1,9 @@
+# Ignore system files and IDE configurations
+.DS_Store
+Thumbs.db
+*.db
+*.sqlite
+.dbeaver/
+*.dbs
+.vscode/
+.idea/
