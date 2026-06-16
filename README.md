@@ -10,7 +10,10 @@ All queries are written in **SQLite** and executed using **DBeaver**.
 
 The Chinook database was created by **Luis Rocha** as a modern, open-source alternative to Microsoft's Northwind sample database. It models a fictional digital music store, similar to an early version of iTunes where customers from over 20 countries purchase tracks and albums across a wide range of genres.
 
-> The database schema diagram is included in the `/schema` folder.
+The database schema diagram: 
+
+<img width="583" height="610" alt="Database_schema" src="https://github.com/user-attachments/assets/f4643e32-a2f7-4c6f-9fac-76ff7ee158db" />
+
 
 ## Business Questions & Queries
 
