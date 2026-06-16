@@ -50,10 +50,7 @@ To reproduce the results from this project:
 
 ```
 chinook-sql-practice/
-│
 ├── README.md
-├── schema/
-│   └── chinook_schema.png
 └── queries/
     ├── store_performance.sql
     └── customer_catalog_intelligence.sql
