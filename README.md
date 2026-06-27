@@ -6,15 +6,14 @@ This project contains SQL queries written against the **Chinook** database, a sa
 
 All queries are written in **SQLite** and executed using **DBeaver**.
 
----
-
 ## About the Chinook Database
 
 The Chinook database was created by **Luis Rocha** as a modern, open-source alternative to Microsoft's Northwind sample database. It models a fictional digital music store, similar to an early version of iTunes where customers from over 20 countries purchase tracks and albums across a wide range of genres.
 
-> The database schema diagram is included in the `/schema` folder.
+The database schema diagram: 
 
----
+<img width="583" height="610" alt="Database_schema" src="https://github.com/user-attachments/assets/f4643e32-a2f7-4c6f-9fac-76ff7ee158db" />
+
 
 ## Business Questions & Queries
 
@@ -37,8 +36,6 @@ The Chinook database was created by **Luis Rocha** as a modern, open-source alte
 - What is the lifetime value of each customer?
 - How many tracks does each album have, and who is the artist?
 
----
-
 ## Reproducing the Results
 
 The Chinook database is an open-source project originally created by **Luis Rocha** and is freely available on GitHub. It comes pre-loaded with sample data so no setup or data import required.
@@ -49,16 +46,11 @@ To reproduce the results from this project:
 2. Open DBeaver and create a new SQLite connection pointing to the `.db` file
 3. Open either `.sql` file and run the queries
 
----
-
 ## Project Structure
 
 ```
 chinook-sql-practice/
-│
 ├── README.md
-├── schema/
-│   └── chinook_schema.png
 └── queries/
     ├── store_performance.sql
     └── customer_catalog_intelligence.sql
