@@ -26,6 +26,10 @@ The database schema diagram:
 - What is the most popular genre by number of tracks sold?
 - What does the monthly revenue trend look like across all time?
 
+**Monthly Revenue Trend (2009-2013)**
+
+<img width="950" height="450" alt="visualization" src="https://github.com/user-attachments/assets/244285f8-444a-4aa4-8955-ff4acbb94256" />
+
 ### Customer & Catalog Intelligence
 *File: `customer_catalog_intelligence.sql`*
 
