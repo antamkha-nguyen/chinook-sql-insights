@@ -39,6 +39,10 @@ The database schema diagram:
 - How are artists ranked by total revenue generated?
 - Which genres generate the most revenue per track sold?
 
+## SQL Concepts Covered
+
+Queries in this project cover multi-table JOINs, GROUP BY aggregations, CTEs, self joins, CROSS JOINs, HAVING vs WHERE filtering, date extraction with strftime() and window functions including RANK() and LAG() 
+
 ## Reproducing the Results
 
 The Chinook database is an open-source project originally created by **Luis Rocha** and is freely available on GitHub. It comes pre-loaded with sample data so no setup or data import required.
