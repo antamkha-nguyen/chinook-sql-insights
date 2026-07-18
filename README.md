@@ -33,13 +33,11 @@ The database schema diagram:
 ### Customer & Catalog Intelligence
 *File: `customer_catalog_intelligence.sql`*
 
+- How many tracks does each album have and who is the artist?
+- Which employee manages the most people?
 - Which customers have spent above the average customer spend?
 - How are artists ranked by total revenue generated?
-- Which employee manages the most people?
-- Which genres are growing or declining year over year?
-- Which genres generate the most revenue per track sold, are premium genres being underutilized?
-- What is the lifetime value of each customer?
-- How many tracks does each album have, and who is the artist?
+- Which genres generate the most revenue per track sold?
 
 ## Reproducing the Results
 
