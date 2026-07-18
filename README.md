@@ -49,7 +49,7 @@ The Chinook database is an open-source project originally created by **Luis Roch
 
 To reproduce the results from this project:
 
-1. Download the Chinook SQLite database from [https://github.com/lerocha/chinook-database](https://github.com/lerocha/chinook-database)
+1. Import the Chinook SQLite database from [https://github.com/lerocha/chinook-database](https://github.com/lerocha/chinook-database)
 2. Open DBeaver and create a new SQLite connection pointing to the `.db` file
 3. Open either `.sql` file and run the queries
 
@@ -58,7 +58,6 @@ To reproduce the results from this project:
 ```
 chinook-sql-practice/
 ├── README.md
-└── queries/
-    ├── store_performance.sql
+└── ├── store_performance.sql
     └── customer_catalog_intelligence.sql
 ```
