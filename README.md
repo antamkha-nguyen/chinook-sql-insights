@@ -26,15 +26,22 @@ The database schema diagram:
 - What is the most popular genre by number of tracks sold?
 - What does the monthly revenue trend look like across all time?
 
+**Monthly Revenue Trend (2009-2013)**
+
+<img width="950" height="450" alt="visualization" src="https://github.com/user-attachments/assets/244285f8-444a-4aa4-8955-ff4acbb94256" />
+
 ### Customer & Catalog Intelligence
 *File: `customer_catalog_intelligence.sql`*
 
+- How many tracks does each album have and who is the artist?
+- Which employee manages the most people?
 - Which customers have spent above the average customer spend?
 - How are artists ranked by total revenue generated?
-- Which employee manages the most people?
-- Which customers have never purchased a Rock track?
-- What is the lifetime value of each customer?
-- How many tracks does each album have, and who is the artist?
+- Which genres generate the most revenue per track sold?
+
+## SQL Concepts Covered
+
+Queries in this project cover multi-table JOINs, GROUP BY aggregations, CTEs, self joins, CROSS JOINs, HAVING vs WHERE filtering, date extraction with strftime() and window functions including RANK() and LAG() 
 
 ## Reproducing the Results
 
